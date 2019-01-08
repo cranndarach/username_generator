@@ -16,3 +16,9 @@ Then process it by running `extract_pos.py` from inside the `corpus/` folder:
 $ cd corpus
 $ python extract_pos.py
 ```
+
+### Other corpora
+
+If you'd like to use another corpus, make sure you have a separate file for each part of speech in the `corpus/` directory. The files should be named
+`pos.txt`, where "*pos*" is one of: *adjectives, adverbs, conjunctions, determiners, nouns, prepositions, quantifiers,* and *verbs*. The files should contain
+one word per line with no delimiters.
