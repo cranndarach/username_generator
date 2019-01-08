@@ -9,10 +9,6 @@ import random as rd
 
 
 def setup():
-    # adj = load_words("adj")
-    # adv = load_words("adv")
-    # noun = load_words("noun")
-    # verb = load_words("verb")
     adj = load_words("adjectives")
     adv = load_words("adverbs")
     noun = load_words("nouns")
@@ -26,10 +22,7 @@ def setup():
 
 
 def load_words(pos):
-    # prefix = "/home/rachael/Documents/School/Corpora/WordNet/parsing/words/"
-    # word_path = prefix + "extracted_{}.txt".format(pos)
-    prefix = "/home/rachael/Documents/School/Corpora/wordfrequency_dot_info/"
-    word_path = prefix + pos + ".txt"
+    word_path = "corpus/{}.txt".format(pos)
     with open(word_path, "r") as f:
         words = [word[:-1] for word in f]
     return words
