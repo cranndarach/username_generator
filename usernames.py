@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Generate usernames from WordNet.
+Generate usernames from a corpus.
 """
 
 import re
@@ -46,7 +46,7 @@ def make_name(*args):
 
 def make_some_names(n, types=None):
     if not types:
-        types = ["an", "aan", "aa", "va", "dan", "aca", "vp"]
+        types = ["an", "aan", "aa", "vp", "dan", "aca", "va", "vpn", "npn", "nn"]
     names = []
     for _ in range(n):
         combo = rd.choice(types)
@@ -62,8 +62,20 @@ def make_some_names(n, types=None):
             names.append(make_name(det, adj, noun))
         elif combo == "aca":
             names.append(make_name(adj, conj, adj))
-        else:
+        elif combo == "va":
             names.append(make_name(verb, adv))
+        elif combo == "vpn":
+            names.append(make_name(verb, prep, noun))
+        elif combo == "npn":
+            names.append(make_name(noun, prep, noun))
+        elif combo == "nn":
+            names.append(make_name(noun, noun))
+        # elif combo == "anpn":
+        #     names.append(make_name(adj, noun, prep, noun))
+        # elif combo == "vapn":
+        #     names.append(make_name(verb, adv, prep, noun))
+        else:
+            names.append(make_name(*combo))
     return names
 
 
