@@ -39,7 +39,7 @@ def make_name(*args):
 
 def make_some_names(n, types=None):
     if not types:
-        types = ["an", "aan", "aa", "vp", "dan", "aca", "va", "vpn", "npn", "nn"]
+        types = ["an", "aan", "aa", "adn", "vp", "dan", "aca", "va", "vpn", "npn", "nn"]
     names = []
     for _ in range(n):
         combo = rd.choice(types)
@@ -49,6 +49,8 @@ def make_some_names(n, types=None):
             names.append(make_name(adj, adj, noun))
         elif combo == "aa":
             names.append(make_name(adv, adj))
+        elif combo == "adn":
+            names.append(make_name(adv, det, noun))
         elif combo == "vp":
             names.append(make_name(verb, prep))
         elif combo == "dan":
