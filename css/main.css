@@ -11,3 +11,7 @@ main {
 .footer-copyright {
   margin: 0 10px;
 }
+
+footer a {
+  text-decoration: underline;
+}
