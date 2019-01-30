@@ -1,20 +1,3 @@
-©
-«
-®
-»
-•
-■
-£
-a
-a.
-A1
-a2
-A.2d
-A3
-A4
-A.A.
-AA
-AAA
 Aachen
 Aaron
 Ab
@@ -2260,7 +2243,6 @@ bishops
 Bismarck
 bison
 bit
-bitch
 bite
 bites
 bitmap
@@ -5366,7 +5348,6 @@ cumin
 Cummings
 Cummins
 Cunningham
-cunt
 cup
 cupboard
 cupboards
@@ -9575,9 +9556,7 @@ gymnasium
 gymnastics
 Gynecol
 Gynecology
-gypsies
 gypsum
-Gypsy
 gyrus
 h
 h.
@@ -14761,9 +14740,6 @@ negotiation
 negotiations
 negotiator
 negotiators
-Negri
-negro
-negroes
 Nehemiah
 Nehru
 neighbor
@@ -14915,8 +14891,6 @@ Niger
 Nigeria
 Nigerian
 Nigerians
-nigger
-niggers
 night
 nightclub
 nightclubs
