@@ -8,3 +8,14 @@ or
 plus
 vs.
 yet
+if
+iff
+except
+albeit
+since
+so
+though
+unless
+whereas
+whether
+while
