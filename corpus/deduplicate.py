@@ -17,13 +17,14 @@ def deduplicate(words):
 
 if __name__ == "__main__":
     names = [
-        "adjectives",
-        "adverbs",
-        "conjunctions",
-        "determiners",
-        "nouns",
-        "prepositions",
-        "verbs"
+        "pronouns"
+        # "adjectives",
+        # "adverbs",
+        # "conjunctions",
+        # "determiners",
+        # "nouns",
+        # "prepositions",
+        # "verbs"
     ]
     for name in names:
         with open(f"{name}.txt", "r") as f:
