@@ -1582,8 +1582,6 @@ AZ
 Azerbaijan
 Aziz
 Aztecs
-b
-b.
 B1
 B12
 B2
@@ -3013,8 +3011,6 @@ byte
 bytes
 Byzantine
 Byzantium
-c
-c.
 C02
 C1
 C2
@@ -5448,9 +5444,7 @@ Czar
 Czech
 Czechoslovakia
 Czechs
-d
 d'
-d.
 D1
 D2
 D3
@@ -6773,8 +6767,6 @@ dysplasia
 dyspnea
 dystonia
 dystrophy
-e
-e.
 E2
 E3
 E.A.
@@ -7757,8 +7749,6 @@ eyewitness
 Eyre
 Ezekiel
 Ezra
-f
-f.
 F1
 F2
 F.2d
@@ -8713,8 +8703,6 @@ future
 futures
 Fuzzy
 FX
-g
-g.
 G2
 Ga
 Ga.
@@ -9558,8 +9546,6 @@ Gynecol
 Gynecology
 gypsum
 gyrus
-h
-h.
 H0
 H2
 H20
@@ -10532,8 +10518,6 @@ hysterectomy
 hysteresis
 hysteria
 Hz
-i
-i.
 IA
 IAEA
 Ian
@@ -11366,8 +11350,6 @@ IVF
 ivory
 ivy
 IX
-j
-J.
 J2EE
 J.A.
 JA
@@ -11720,8 +11702,6 @@ juxtaposition
 JV
 J.W.
 JW
-k
-k.
 Ka
 K.A.
 KA
@@ -12043,9 +12023,7 @@ KY
 Kyle
 Kyoto
 Kyrgyzstan
-l
 l'
-L.
 L1
 L2
 la
@@ -12961,8 +12939,6 @@ lyrics
 lysine
 lysis
 Lytton
-m
-m.
 M1
 m2
 m3
@@ -14567,8 +14543,6 @@ mystique
 myth
 mythology
 myths
-n
-n.
 N2
 Na
 N.A.
@@ -15135,8 +15109,6 @@ nymph
 nymphs
 NYSE
 nystagmus
-O
-O.
 O2
 OA
 oak
@@ -15616,8 +15588,6 @@ oyster
 oysters
 oz
 ozone
-p
-p.
 P1
 P2
 P.2d
@@ -17491,8 +17461,6 @@ Pyrenees
 pyruvate
 Pythagoras
 Python
-q
-Q.
 Q2
 Qaeda
 Qatar
@@ -17584,8 +17552,6 @@ quotes
 quotient
 Qur'an
 Quran
-r
-r.
 R1
 R2
 Ra
@@ -18863,8 +18829,6 @@ Rwanda
 Ryan
 Ryder
 rye
-s
-s.
 S1
 S2
 S3
@@ -21254,8 +21218,6 @@ syringes
 syrup
 system
 systems
-t
-t.
 T1
 T2
 T3
@@ -22395,8 +22357,6 @@ Tyrone
 tyrosine
 Tyson
 Tzu
-u
-U.
 UA
 ubiquity
 UC
@@ -22620,8 +22580,6 @@ utterance
 utterances
 UV
 Uzbekistan
-v
-V.
 V2
 Va
 Va.
@@ -23061,8 +23019,6 @@ vulture
 vultures
 vulva
 Vygotsky
-w
-w.
 W3C
 W.A.
 WA
@@ -23669,8 +23625,6 @@ Wyndham
 Wynn
 Wynne
 Wyoming
-x
-x.
 x2
 Xavier
 Xenophon
@@ -23701,12 +23655,9 @@ XXIV
 XXV
 XXX
 XYZ
-y
-y.
 yacht
 yachts
 Yahoo!
-Yahweh
 Yale
 yam
 Yamada
@@ -23743,7 +23694,6 @@ yen
 Yes
 YES
 yesterday
-YHWH
 Yi
 yield
 yields
@@ -23789,8 +23739,6 @@ Yuri
 Yusuf
 Yves
 Yvonne
-z
-Z.
 Zach
 Zachary
 Zack
