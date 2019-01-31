@@ -6749,7 +6749,6 @@ dye
 Dyer
 dyes
 Dying
-Dyke
 Dylan
 Dynamic
 dynamics
