@@ -16,7 +16,7 @@ def make_name(*args):
     return username
 
 
-def make_some_names(n, *args, types=None):
+def make_some_names(n, *args, verbose=False):
     adj, adv, noun, verb, det, prep, conj = args
     abbrevs = {
         "an": [adj, noun],
@@ -34,9 +34,12 @@ def make_some_names(n, *args, types=None):
         "vcv": [verb, conj, verb],
         "ncn": [noun, conj, noun]
     }
-    if not types:
-        types = abbrevs.values()
+    types = abbrevs.keys()
+    # if not types:
+    #     types = abbrevs.keys()
     for _ in range(n):
         selected = rd.choice(types)
+        if verbose:
+            print(selected)
         combo = abbrevs.get(selected, selected)
         print(make_name(*combo))
