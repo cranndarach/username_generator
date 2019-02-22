@@ -7,7 +7,7 @@ Generate usernames from a corpus.
 import random as rd
 
 
-def setup():
+def init():
     adj = load_words("adjectives")
     adv = load_words("adverbs")
     noun = load_words("nouns")
@@ -34,7 +34,8 @@ def make_name(*args):
     return username
 
 
-def make_some_names(n, types=None):
+def make_some_names(n, *args, types=None):
+    adj, adv, noun, verb, det, prep, conj = args
     abbrevs = {
         "an": [adj, noun],
         "aan": [adj, adj, noun],
@@ -57,7 +58,3 @@ def make_some_names(n, types=None):
         selected = rd.choice(types)
         combo = abbrevs.get(selected, selected)
         print(make_name(*combo))
-
-
-if __name__ == "__main__":
-    adj, adv, noun, verb, det, prep, conj = setup()
