@@ -4,7 +4,6 @@
 Generate usernames from a corpus.
 """
 
-import re
 import random as rd
 
 
@@ -16,8 +15,6 @@ def setup():
     det = load_words("determiners")
     prep = load_words("prepositions")
     conj = load_words("conjunctions")
-
-    noun = list(filter(lambda w: not re.search(r"genus|family", w), noun))
     return (adj, adv, noun, verb, det, prep, conj)
 
 
@@ -38,40 +35,28 @@ def make_name(*args):
 
 
 def make_some_names(n, types=None):
+    abbrevs = {
+        "an": [adj, noun],
+        "aan": [adj, adj, noun],
+        "aa": [adv, adj],
+        "adn": [adv, det, noun],
+        "vp": [verb, prep],
+        "dan": [det, adj, noun],
+        "aca": [adj, conj, adj],
+        "va": [verb, adv],
+        "vpn": [verb, prep, noun],
+        "npn": [noun, prep, noun],
+        "nn": [noun, noun],
+        "pdn": [prep, det, noun],
+        "vcv": [verb, conj, verb],
+        "ncn": [noun, conj, noun]
+    }
     if not types:
-        types = ["an", "aan", "aa", "adn", "vp", "dan", "aca", "va", "vpn", "npn", "nn"]
-    names = []
+        types = abbrevs.values()
     for _ in range(n):
-        combo = rd.choice(types)
-        if combo == "an":
-            names.append(make_name(adj, noun))
-        elif combo == "aan":
-            names.append(make_name(adj, adj, noun))
-        elif combo == "aa":
-            names.append(make_name(adv, adj))
-        elif combo == "adn":
-            names.append(make_name(adv, det, noun))
-        elif combo == "vp":
-            names.append(make_name(verb, prep))
-        elif combo == "dan":
-            names.append(make_name(det, adj, noun))
-        elif combo == "aca":
-            names.append(make_name(adj, conj, adj))
-        elif combo == "va":
-            names.append(make_name(verb, adv))
-        elif combo == "vpn":
-            names.append(make_name(verb, prep, noun))
-        elif combo == "npn":
-            names.append(make_name(noun, prep, noun))
-        elif combo == "nn":
-            names.append(make_name(noun, noun))
-        # elif combo == "anpn":
-        #     names.append(make_name(adj, noun, prep, noun))
-        # elif combo == "vapn":
-        #     names.append(make_name(verb, adv, prep, noun))
-        else:
-            names.append(make_name(*combo))
-    return names
+        selected = rd.choice(types)
+        combo = abbrevs.get(selected, selected)
+        print(make_name(*combo))
 
 
 if __name__ == "__main__":
