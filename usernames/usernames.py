@@ -7,24 +7,6 @@ Generate usernames from a corpus.
 import random as rd
 
 
-def init():
-    adj = load_words("adjectives")
-    adv = load_words("adverbs")
-    noun = load_words("nouns")
-    verb = load_words("verbs")
-    det = load_words("determiners")
-    prep = load_words("prepositions")
-    conj = load_words("conjunctions")
-    return (adj, adv, noun, verb, det, prep, conj)
-
-
-def load_words(pos):
-    word_path = "corpus/{}.txt".format(pos)
-    with open(word_path, "r") as f:
-        words = [word[:-1] for word in f]
-    return words
-
-
 def make_name(*args):
     picked = [rd.choice(words) for words in args]
     joined = " ".join(picked)
