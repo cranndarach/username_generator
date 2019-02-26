@@ -34,7 +34,7 @@ def make_some_names(n, verbose=False):
         "vcv": [corpus.verbs, corpus.conjunctions, corpus.verbs],
         "ncn": [corpus.nouns, corpus.conjunctions, corpus.nouns]
     }
-    types = abbrevs.keys()
+    types = list(abbrevs.keys())
     # if not types:
     #     types = abbrevs.keys()
     for _ in range(n):
