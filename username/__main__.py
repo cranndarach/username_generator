@@ -6,15 +6,14 @@ The main file for the username generator CLI.
 """
 
 import argparse
-# from username import usernames
 import usernames
 
 
 def setup_args():
     parser = argparse.ArgumentParser("Generate usernames from pseudo-random " +
                                      "strings of words.")
-    parser.add_argument("-v", "--verbose", action="store_true", help="Print " +
-                        "the parts of speech used for each username.")
+    parser.add_argument("-v", "--verbose", action="store_true", help="print " +
+                        "the parts of speech used for each username")
     parser.add_argument("-n", help="the number of usernames to generate",
                         type=int, default=1)
     return parser.parse_args()
@@ -32,7 +31,7 @@ def init():
 
 
 def load_words(pos):
-    word_path = "./corpus/{}.txt".format(pos)
+    word_path = f"corpus/{pos}.txt"
     with open(word_path, "r") as f:
         words = [word[:-1] for word in f]
     return words
