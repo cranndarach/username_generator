@@ -19,15 +19,15 @@ def setup_args():
     return parser.parse_args()
 
 
-def init():
-    adj = load_words("adjectives")
-    adv = load_words("adverbs")
-    noun = load_words("nouns")
-    verb = load_words("verbs")
-    det = load_words("determiners")
-    prep = load_words("prepositions")
-    conj = load_words("conjunctions")
-    return (adj, adv, noun, verb, det, prep, conj)
+# def init():
+#     adj = load_words("adjectives")
+#     adv = load_words("adverbs")
+#     noun = load_words("nouns")
+#     verb = load_words("verbs")
+#     det = load_words("determiners")
+#     prep = load_words("prepositions")
+#     conj = load_words("conjunctions")
+#     return (adj, adv, noun, verb, det, prep, conj)
 
 
 def load_words(pos):
@@ -39,8 +39,8 @@ def load_words(pos):
 
 def main():
     args = setup_args()
-    corpus = init()
-    usernames.make_some_names(args.n, *corpus, args.verbose)
+    # corpus = init()
+    usernames.make_some_names(args.n, args.verbose)
 
 
 if __name__ == "__main__":
