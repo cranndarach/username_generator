@@ -6,7 +6,7 @@ The main file for the username generator CLI.
 """
 
 import argparse
-import usernames
+from . import usernames
 
 
 def setup_args():
