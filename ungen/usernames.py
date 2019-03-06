@@ -5,7 +5,7 @@ Generate usernames from a corpus.
 """
 
 import random as rd
-from corpus import corpus
+from . import corpus
 
 
 def make_name(*args):
