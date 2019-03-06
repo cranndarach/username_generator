@@ -4,6 +4,7 @@
 Generate usernames from a corpus.
 """
 
+import functools
 import random as rd
 from . import corpus
 
@@ -15,6 +16,18 @@ def make_name(*args):
     caps = tidy.title()
     username = caps.replace(" ", "")
     return username
+
+
+def make_description(seq_string):
+    repl = (
+        ("adj", "adjective"),
+        ("adv", "adverb"),
+        ("conj", "conjunction"),
+        ("det", "determiner"),
+        ("prep", "preposition")
+    )
+    result = functools.reduce(lambda s, r: s.replace(*r), repl, seq_string)
+    return result
 
 
 def make_some_names(n, verbose=False):
@@ -37,12 +50,8 @@ def make_some_names(n, verbose=False):
         "noun-conj-noun": [corpus.nouns, corpus.conjunctions, corpus.nouns]
     }
     types = list(abbrevs.keys())
-    # if not types:
-    #     types = abbrevs.keys()
     for _ in range(n):
         selected = rd.choice(types)
-        # if verbose:
-        #     print(selected)
         combo = abbrevs.get(selected, selected)
-        info = f" ({selected})" if verbose else ""
+        info = f" ({make_description(selected)})" if verbose else ""
         print(make_name(*combo), info, sep="")
