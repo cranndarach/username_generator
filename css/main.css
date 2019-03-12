@@ -2,7 +2,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  font-family: 'Oxygen', sans-serif !important;
+  font-family: 'IBM Plex Sans', sans-serif !important;
 }
 
 main {
