@@ -4,27 +4,26 @@
 Remove duplicates that differ only in capitalization from lists.
 """
 
-import sys
+# import sys
 
 
 def deduplicate(words):
     filtered = []
     for word in words:
-        if word.lower() not in filtered:
+        if word.lower() not in (w.lower() for w in filtered):
             filtered.append(word)
     return filtered
 
 
 if __name__ == "__main__":
     names = [
-        "pronouns"
-        # "adjectives",
-        # "adverbs",
-        # "conjunctions",
-        # "determiners",
-        # "nouns",
-        # "prepositions",
-        # "verbs"
+        "adjectives",
+        "adverbs",
+        "conjunctions",
+        "determiners",
+        "nouns",
+        "prepositions",
+        "verbs"
     ]
     for name in names:
         with open(f"{name}.txt", "r") as f:

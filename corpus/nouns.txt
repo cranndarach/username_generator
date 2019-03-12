@@ -2,7 +2,6 @@ Aachen
 Aaron
 Ab
 A.B.
-AB
 ABA
 Ababa
 abandon
@@ -72,7 +71,6 @@ absorption
 abstention
 abstinence
 Abstract
-ABSTRACT
 abstraction
 abstractions
 abstracts
@@ -211,7 +209,6 @@ Acute
 ad
 A.D.
 Ada
-ADA
 adage
 Adair
 Adam
@@ -398,7 +395,6 @@ afterthought
 Afterwards
 Ag
 A.G.
-AG
 Against
 Agamemnon
 agar
@@ -448,7 +444,6 @@ Ahmad
 Ahmed
 Ahmedabad
 Ai
-AI
 AICPA
 aid
 Aidan
@@ -495,7 +490,6 @@ al
 A.L.
 Ala
 Ala.
-ALA
 Alabama
 alacrity
 Aladdin
@@ -582,7 +576,6 @@ Alistair
 alkali
 alkaloids
 All
-ALL
 Allah
 Allahabad
 Allan
@@ -670,7 +663,6 @@ Alvin
 Alzheimer
 a.m.
 Am
-AM
 AMA
 amalgam
 amalgamation
@@ -706,7 +698,6 @@ amenities
 Amer
 America
 American
-AMERICAN
 Americana
 Americanism
 Americanization
@@ -855,7 +846,6 @@ Ankara
 ankle
 ankles
 Ann
-ANN
 Anna
 Annabelle
 Annales
@@ -890,7 +880,6 @@ anonymity
 Anonymous
 ANOVA
 Ans
-ANS
 Anselm
 ANSI
 Anson
@@ -1084,7 +1073,6 @@ Aquinas
 Aquino
 Ar
 A.R.
-AR
 Arab
 Arabella
 Arabia
@@ -1257,7 +1245,6 @@ Aryans
 A.S.
 AS
 Asa
-ASA
 Asad
 Asahi
 asbestos
@@ -1445,7 +1432,6 @@ attributions
 attrition
 Atwood
 Au
-AU
 Aubrey
 Auburn
 Auckland
@@ -1533,7 +1519,6 @@ autumn
 auxiliaries
 auxiliary
 Av
-AV
 Ava
 avail
 availability
@@ -1894,7 +1879,6 @@ B.C.
 B.C.E.
 BCE
 Bd
-BD
 be
 Bea
 beach
@@ -2102,7 +2086,6 @@ Beryl
 Bess
 Bessie
 Best
-BEST
 bet
 beta
 Beth
@@ -2252,12 +2235,9 @@ BJ
 BJP
 BK
 Bl
-BL
 Black
-BLACK
 blackboard
 Blackburn
-Blackie
 blackmail
 blackness
 blacks
@@ -2574,7 +2554,6 @@ bp
 B.P.
 Br
 B.R.
-BR
 bra
 brace
 bracelet
@@ -3099,7 +3078,6 @@ calibre
 calico
 Calif.
 California
-CALIFORNIA
 caliph
 call
 Callaghan
@@ -3375,7 +3353,6 @@ Carver
 carvings
 Cary
 Cas
-CAS
 Casa
 Casablanca
 Casanova
@@ -3512,7 +3489,6 @@ CCH
 CCP
 Cd
 C.D.
-CD
 CD4
 CD8
 CDA
@@ -3712,7 +3688,6 @@ charity
 Charlemagne
 Charlene
 Charles
-CHARLES
 Charleston
 Charley
 Charlie
@@ -3939,7 +3914,6 @@ churchmen
 churchyard
 chute
 Ci
-CI
 CIA
 Cicero
 cider
@@ -4003,7 +3977,6 @@ CJ
 CK
 Cl
 C.L.
-CL
 cladding
 Claiborne
 claim
@@ -4195,7 +4168,6 @@ CNN
 CNS
 co
 Co.
-CO.
 CO2
 CoA
 coach
@@ -5114,7 +5086,6 @@ CPU
 CQ
 Cr
 C.R.
-CR
 crab
 crabs
 crack
@@ -5299,14 +5270,12 @@ crystallization
 crystals
 Cs
 C.S.
-CS
 CSA
 CSF
 CSP
 CSR
 CSS
 Ct
-CT
 Ctrl
 Cu
 cub
@@ -5555,7 +5524,6 @@ Dave
 Davenport
 Davey
 David
-DAVID
 Davidson
 Davie
 Davies
@@ -5575,7 +5543,6 @@ Dayton
 daze
 dB
 D.B.
-DB
 DB2
 DBA
 DBMS
@@ -5635,7 +5602,6 @@ Debussy
 debut
 Dec
 Dec.
-DEC
 decade
 decadence
 decades
@@ -5888,7 +5854,6 @@ Derrick
 Derrida
 Derry
 Des
-DES
 Desai
 Descartes
 descendant
@@ -6365,7 +6330,6 @@ DJ
 DK
 Dl
 D.L.
-DL
 DLL
 D.M.
 DM
@@ -6391,7 +6355,6 @@ documentary
 documentation
 documents
 DoD
-DOD
 Dodd
 Dodge
 Dodgers
@@ -6417,7 +6380,6 @@ Dolores
 dolphin
 dolphins
 Dom
-DOM
 domain
 domains
 dome
@@ -6541,7 +6503,6 @@ DPRK
 Dr
 Dr.
 D.R.
-DR
 Dracula
 draft
 drafters
@@ -6654,7 +6615,6 @@ Duane
 Dubai
 Dublin
 Dubois
-DuBois
 Duc
 ducats
 Duchamp
@@ -6708,7 +6668,6 @@ duplicates
 duplication
 duplicity
 Dupont
-DuPont
 durability
 Duran
 Durand
@@ -6833,7 +6792,6 @@ Ecological
 ecologists
 ecology
 Economic
-ECONOMIC
 economics
 economies
 economist
@@ -7022,7 +6980,6 @@ elimination
 Elinor
 Eliot
 Elisa
-ELISA
 Elisabeth
 Elise
 Elisha
@@ -7062,7 +7019,6 @@ Elvis
 Ely
 Em
 E.M.
-EM
 email
 emails
 emanation
@@ -7144,7 +7100,6 @@ emulation
 emulsion
 emulsions
 En
-EN
 enactment
 enactments
 enamel
@@ -7354,7 +7309,6 @@ Erasmus
 erasure
 erection
 Eric
-ERIC
 Erica
 Erich
 Erickson
@@ -7420,7 +7374,6 @@ essentialism
 essentials
 Essex
 Est
-EST
 establishment
 establishments
 Estado
@@ -7517,7 +7470,6 @@ Eustace
 euthanasia
 eV
 Eva
-EVA
 evacuation
 evaluation
 evaluations
@@ -7918,7 +7870,6 @@ FDA
 FDI
 FDR
 Fe
-FE
 fear
 fears
 feasibility
@@ -8163,7 +8114,6 @@ firmament
 firmness
 firms
 First
-FIRST
 firstborn
 Firth
 Fischer
@@ -8706,7 +8656,6 @@ G2
 Ga
 Ga.
 G.A.
-GA
 GAAP
 GaAs
 GABA
@@ -8783,7 +8732,6 @@ gangster
 gangsters
 Gantt
 Gao
-GAO
 gaol
 gap
 gaps
@@ -8869,7 +8817,6 @@ GDP
 GDR
 Ge
 G.E.
-GE
 gear
 gears
 Geary
@@ -8954,7 +8901,6 @@ Geophys
 Geophysical
 Georg
 George
-GEORGE
 Georges
 Georgetown
 Georgia
@@ -9057,7 +9003,6 @@ girls
 Giroux
 girth
 GIs
-GIS
 Gita
 Giuliani
 Giulio
@@ -9069,7 +9014,6 @@ G.J.
 GJ
 Gl
 G.L.
-GL
 glacier
 glaciers
 gladness
@@ -9239,10 +9183,8 @@ Goya
 G.P.
 GP
 GPa
-GPA
 GPO
 GPs
-GPS
 G.R.
 GR
 grab
@@ -9957,7 +9899,6 @@ Henri
 Henrietta
 Henrik
 Henry
-HENRY
 hens
 Henson
 heparin
@@ -10036,7 +9977,6 @@ Hezekiah
 HF
 Hg
 H.G.
-HG
 H.H.
 HH
 hi
@@ -10153,7 +10093,6 @@ HMOs
 HMS
 HMSO
 Ho
-HO
 hoard
 Hoare
 hoax
@@ -10522,7 +10461,6 @@ IAEA
 Ian
 IAS
 Ib
-IB
 Ibadan
 ibid
 ibid.
@@ -10576,7 +10514,6 @@ idol
 idolatry
 idols
 IDs
-IDS
 i.e.
 ie
 IEEE
@@ -10717,7 +10654,6 @@ inattention
 inauguration
 Inc
 Inc.
-INC.
 Inca
 incandescent
 incantations
@@ -11229,7 +11165,6 @@ IPv6
 IQ
 IR
 Ira
-IRA
 Iran
 Iranians
 Iraq
@@ -11272,7 +11207,6 @@ Irving
 Irwin
 IS
 Isa
-ISA
 Isaac
 Isaacs
 Isabel
@@ -11385,7 +11319,6 @@ jam
 Jamaica
 Jamal
 James
-JAMES
 Jameson
 Jamestown
 Jamie
@@ -11530,7 +11463,6 @@ JM
 J.N.
 JN
 Jo
-JO
 Joachim
 Joan
 Joanna
@@ -11554,12 +11486,10 @@ Johannesburg
 Johansen
 Johansson
 John
-JOHN
 Johnnie
 Johnny
 Johns
 Johnson
-JOHNSON
 Johnston
 Johnstone
 joint
@@ -11584,7 +11514,6 @@ Jose
 José
 Josef
 Joseph
-JOSEPH
 Josephine
 Josephus
 Josh
@@ -11610,7 +11539,6 @@ JPEG
 Jr
 Jr.
 J.R.
-JR
 J.S.
 JS
 JSP
@@ -11703,7 +11631,6 @@ J.W.
 JW
 Ka
 K.A.
-KA
 Kabbalah
 Kabir
 Kabul
@@ -12102,7 +12029,6 @@ Lamont
 lamp
 lamps
 Lan
-LAN
 Lana
 Lancashire
 Lancaster
@@ -12261,7 +12187,6 @@ LDL
 LDP
 le
 Lea
-LEA
 Leach
 lead
 leader
@@ -12670,7 +12595,6 @@ lnc
 lndia
 lnstitute
 Lo
-LO
 load
 loader
 loading
@@ -12742,7 +12666,6 @@ Lombard
 Lombardi
 Lon
 London
-LONDON
 Lone
 loneliness
 long
@@ -12836,7 +12759,6 @@ L.S.
 LSD
 Lt
 Lt.
-LT
 Ltd
 Ltd.
 Lu
@@ -12947,14 +12869,12 @@ ma'am
 Maastricht
 Mabel
 Mac
-MAC
 Macao
 MacArthur
 Macaulay
 Macbeth
 Maccabees
 Macdonald
-MacDonald
 mace
 Macedonia
 MacGregor
@@ -12970,17 +12890,14 @@ Macintosh
 Mack
 Mackay
 Mackenzie
-MacKenzie
 mackerel
 Mackey
 Mackie
 MacKinnon
 Mackintosh
 Maclean
-MacLean
 MacLeod
 Macmillan
-MacMillan
 Macon
 Macpherson
 macro
@@ -13333,7 +13250,6 @@ Marti
 Martial
 Martian
 Martin
-MARTIN
 Martineau
 Martinez
 Martini
@@ -13352,11 +13268,9 @@ Marx
 Marxism
 Marxists
 Mary
-MARY
 Maryknoll
 Maryland
 Mas
-MAS
 masculinity
 mash
 mask
@@ -13479,7 +13393,6 @@ Mbeki
 Mbps
 Mc
 M.C.
-MC
 MCA
 McAllister
 McBride
@@ -13542,7 +13455,6 @@ M.D.
 MD
 Me
 M.E.
-ME
 Mead
 Meade
 meadow
@@ -13809,14 +13721,12 @@ mice
 micelles
 Mich.
 Michael
-MICHAEL
 Michaels
 Michel
 Michelangelo
 Michele
 Michelle
 Michigan
-MICHIGAN
 Mick
 Mickey
 micro
@@ -14055,7 +13965,6 @@ M.J.
 MJ
 Mk
 M.K.
-MK
 ml
 M.L.
 MLA
@@ -14064,7 +13973,6 @@ M.M.
 MMC
 Mme
 Mn
-MN
 MNCs
 MNEs
 mo
@@ -14318,7 +14226,6 @@ mosquitoes
 moss
 mosses
 Most
-MOST
 motel
 motels
 moth
@@ -14389,14 +14296,12 @@ MPs
 Mr
 Mr.
 M.R.
-MR
 MRI
 mRNA
 mRNAs
 MRP
 Mrs
 Mrs.
-MRS
 ms
 Ms.
 M.S.
@@ -14404,10 +14309,8 @@ MSA
 MSC
 MSN
 Mss
-MSS
 Mt
 M.T.
-MT
 MTV
 Mu
 muck
@@ -14607,13 +14510,11 @@ narrowness
 NASA
 NASCAR
 Nasdaq
-NASDAQ
 Nash
 Nashville
 Nassau
 Nasser
 Nat
-NAT
 Natal
 Natalie
 Natasha
@@ -14624,7 +14525,6 @@ Nathan
 Nathaniel
 nation
 National
-NATIONAL
 Nationale
 nationalism
 nationalist
@@ -14675,7 +14575,6 @@ NC
 NCAA
 Nd
 N.D.
-ND
 ne
 N.E.
 N.E.2d
@@ -14793,7 +14692,6 @@ neutrophils
 Nevada
 Neville
 New
-NEW
 Newark
 newborns
 Newbury
@@ -14824,7 +14722,6 @@ Nez
 NF
 NFL
 Ng
-NG
 NGO
 NGOs
 Nguyen
@@ -15048,7 +14945,6 @@ NPs
 NPT
 NPV
 Nr
-NR
 NRC
 ns
 N.S.
@@ -15245,7 +15141,6 @@ Older
 Oldham
 olds
 Ole
-OLE
 O'Leary
 Olga
 oligonucleotides
@@ -15936,7 +15831,6 @@ Patton
 Patty
 paucity
 Paul
-PAUL
 Paula
 Pauli
 Pauline
@@ -15975,7 +15869,6 @@ payroll
 Pays
 Paz
 Pb
-PB
 PBS
 P.C.
 PC
@@ -16209,7 +16102,6 @@ pet
 petals
 Pete
 Peter
-PETER
 Peterborough
 Peters
 Petersburg
@@ -16240,7 +16132,6 @@ PG
 PGA
 pH
 Ph.
-PH
 phage
 phagocytosis
 phalanx
@@ -16624,7 +16515,6 @@ pneumothorax
 PNG
 Po
 P.O.
-PO
 Pocahontas
 pocket
 pockets
@@ -16861,12 +16751,10 @@ POWs
 pox
 pp.
 Pp
-PP
 ppm
 PPP
 Pr
 P.R.
-PR
 Practical
 practicality
 practice
@@ -17555,7 +17443,6 @@ R1
 R2
 Ra
 R.A.
-RA
 rabbi
 rabbis
 rabbit
@@ -17674,7 +17561,6 @@ ranchers
 ranches
 Rancho
 Rand
-RAND
 Randall
 Randolph
 random
@@ -17706,7 +17592,6 @@ rapture
 Rare
 rarity
 Ras
-RAS
 rascal
 rash
 rashes
@@ -17761,7 +17646,6 @@ RC
 RCA
 Rd
 R.D.
-RD
 RDA
 RDF
 re
@@ -18350,7 +18234,6 @@ reuse
 Reuters
 Rev
 Rev.
-REV
 revaluation
 revascularization
 revelation
@@ -18404,7 +18287,6 @@ RG
 RGB
 Rh
 R.H.
-RH
 rhetoric
 rheumatism
 Rhine
@@ -18434,7 +18316,6 @@ Ricci
 rice
 Rich
 Richard
-RICHARD
 Richards
 Richardson
 Richelieu
@@ -18492,7 +18373,6 @@ riot
 rioters
 riots
 Rip
-RIP
 Ripley
 ripple
 ripples
@@ -18525,7 +18405,6 @@ R.K.
 RK
 Rl
 R.L.
-RL
 R.M.
 RM
 rms
@@ -18553,7 +18432,6 @@ Robbie
 Robbins
 robe
 Robert
-ROBERT
 Roberta
 Roberto
 Roberts
@@ -18616,7 +18494,6 @@ rollover
 rolls
 Rom
 Rom.
-ROM
 Roma
 Roman
 romance
@@ -18734,7 +18611,6 @@ RSA
 RSS
 Rt
 R.T.
-RT
 rub
 rubber
 rubbish
@@ -18829,7 +18705,6 @@ S2
 S3
 Sa
 S.A.
-SA
 sabbath
 Sabha
 Sabine
@@ -18933,7 +18808,6 @@ salvation
 Salvatore
 Salzburg
 Sam
-SAM
 Samaj
 Samantha
 Samaria
@@ -19018,7 +18892,6 @@ sash
 Sasha
 Saskatchewan
 Sat
-SAT
 Satan
 satchel
 satellite
@@ -19073,7 +18946,6 @@ S.B.
 SB
 Sc
 S.C.
-SC
 scaffold
 scaffolding
 scaffolds
@@ -19190,7 +19062,6 @@ Schwartz
 Schwarz
 Schweitzer
 Sci
-SCI
 science
 sciences
 Scientific
@@ -19426,7 +19297,6 @@ sentry
 Seoul
 Sep
 Sep.
-SEP
 separateness
 separation
 separations
@@ -19710,7 +19580,6 @@ shrapnel
 shreds
 Shrewsbury
 Shri
-SHRI
 shriek
 shrieks
 shrimp
@@ -19734,7 +19603,6 @@ shuttle
 Shylock
 shyness
 Si
-SI
 Siam
 Siberia
 Sibley
@@ -20030,7 +19898,6 @@ Smyrna
 Smyth
 Smythe
 Sn
-SN
 snack
 snacks
 snail
@@ -20450,7 +20317,6 @@ squirrels
 Sr
 Sr.
 S.R.
-SR
 Sri
 ss
 S.S.
@@ -20832,7 +20698,6 @@ styles
 stylus
 styrene
 Su
-SU
 Suarez
 sub
 subclass
@@ -21219,7 +21084,6 @@ T3
 T4
 Ta
 T.A.
-TA
 tab
 tabernacle
 table
@@ -21357,7 +21221,6 @@ TB
 tbsp
 Tc
 T.C.
-TC
 TCP
 T.D.
 TD
@@ -21547,7 +21410,6 @@ thatch
 Thatcher
 Thayer
 The
-THE
 theater
 theaters
 theatre
@@ -21613,7 +21475,6 @@ Thirty
 THIS
 Thom
 Thomas
-THOMAS
 Thompson
 Thomson
 Thor
@@ -21768,7 +21629,6 @@ Titus
 T.J.
 TJ
 Tl
-TL
 TLC
 T.M.
 TM
@@ -22453,7 +22313,6 @@ uniqueness
 unison
 unit
 United
-UNITED
 units
 unity
 Univ
@@ -22469,7 +22328,6 @@ Universite
 universities
 university
 Unix
-UNIX
 Unknown
 unknowns
 unpredictability
@@ -22533,7 +22391,6 @@ urticaria
 Uruguay
 Us
 U.S.
-US
 U.S.A.
 USA
 usability
@@ -22578,7 +22435,6 @@ Uzbekistan
 V2
 Va
 Va.
-VA
 vacancies
 vacancy
 vacation
@@ -23081,7 +22937,6 @@ Walton
 waltz
 Walzer
 Wan
-WAN
 wand
 Wanda
 wanderer
@@ -23326,7 +23181,6 @@ Whistler
 whistles
 Whitaker
 White
-WHITE
 Whitefield
 Whitehall
 Whitehead
@@ -23393,7 +23247,6 @@ Willa
 Willard
 Willett
 William
-WILLIAM
 Williams
 Williamsburg
 Williamson
@@ -23476,10 +23329,8 @@ wizards
 W.J.
 WJ
 Wl
-WL
 Wm
 W.M.
-WM
 WMD
 woe
 woes
@@ -23687,7 +23538,6 @@ Yeltsin
 Yemen
 yen
 Yes
-YES
 yesterday
 Yi
 yield
@@ -23706,7 +23556,6 @@ yolks
 Yom
 yonder
 York
-YORK
 Yorker
 Yorkers
 Yorkshire
@@ -23715,7 +23564,6 @@ Yoruba
 Yosemite
 Yoshida
 Young
-YOUNG
 Younger
 youngster
 youngsters
@@ -23796,8 +23644,6 @@ Zurich
 μm
 hers
 herself
-himself
-it
 myself
 oneself
 itself
@@ -23806,10 +23652,7 @@ theirs
 thyself
 who
 you
-yours
 yourself
 yourselves
-his
 themselves
 thine
-mine

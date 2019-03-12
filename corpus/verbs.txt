@@ -2823,7 +2823,6 @@ examined
 examines
 examining
 Example
-EXAMPLE
 exasperated
 excavated
 exceed
@@ -4041,7 +4040,6 @@ introduced
 introduces
 introducing
 Introduction
-INTRODUCTION
 intrude
 intruded
 intruding
@@ -7253,7 +7251,6 @@ summarized
 summarizes
 summarizing
 Summary
-SUMMARY
 summed
 summing
 summon

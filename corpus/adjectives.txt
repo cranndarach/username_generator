@@ -207,7 +207,6 @@ ambulatory
 Amen
 amenable
 American
-AMERICAN
 amiable
 amicable
 amino
@@ -1434,7 +1433,6 @@ crazed
 crazy
 creamy
 Create
-CREATE
 created
 Creating
 creative
@@ -5894,7 +5892,6 @@ roll
 rolled
 rolling
 Rom
-ROM
 Roman
 Romanesque
 Romanian
@@ -6670,7 +6667,6 @@ sultry
 sum
 Sumerian
 Summary
-SUMMARY
 summer
 sumptuous
 sun
