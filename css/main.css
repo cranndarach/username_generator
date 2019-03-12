@@ -13,6 +13,10 @@ main {
   margin: 0 10px;
 }
 
+#username {
+  font-size: 1.85rem;
+}
+
 footer a {
   text-decoration: underline;
 }
