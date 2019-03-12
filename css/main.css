@@ -2,7 +2,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  font-family: 'Nobile', sans-serif !important;
+  font-family: 'Oxygen', sans-serif !important;
 }
 
 main {
